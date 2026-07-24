@@ -11,7 +11,7 @@ A simple, fast and open-source OpenVPN client built with Flutter.
 ## ✨ Features
 
 - 🔒 OpenVPN Client
-- 🌍 Import and Manage VPN Profiles
+- 🌍 Import and Manage VPN Profiles(soon...)
 - 📊 Real-time Connection Status
 - 📜 Live VPN Logs
 - 📈 Upload & Download Speed
@@ -25,7 +25,7 @@ A simple, fast and open-source OpenVPN client built with Flutter.
 
 ## 📸 Screenshots
 
-Coming soon...
+<img src="https://gcdnb.pbrd.co/images/-ijWfQkG-Oth.png" width="200">
 
 ---
 
