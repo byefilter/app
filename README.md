@@ -1,16 +1,92 @@
-# nacotavpn
+# 🛡️ ByFilter VPN
 
-A new Flutter project.
+A simple, fast and open-source OpenVPN client built with Flutter.
 
-## Getting Started
+<p align="center">
+  <b>OpenVPN • Split Tunneling • Material 3 • Cross-Platform</b>
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔒 OpenVPN Client
+- 🌍 Import and Manage VPN Profiles
+- 📊 Real-time Connection Status
+- 📜 Live VPN Logs
+- 📈 Upload & Download Speed
+- 🛡️ Split Tunneling
+- 🎨 Material 3 UI
+- 🌙 Dark Mode
+- 📱 Android Support
+- 💻 Windows Support (Work in Progress)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+Coming soon...
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+bash
+git clone https://github.com/byefilter/app
+
+
+Go to the project:
+
+bash
+cd ByFilter
+
+
+Install dependencies:
+
+bash
+flutter pub get
+
+
+Run the app:
+
+bash
+flutter run
+
+
+---
+
+## 🛠 Built With
+
+- Flutter
+- Dart
+- flutter_bloc
+- OpenVPN
+- Material 3
+
+---
+
+## 📅 Roadmap
+
+- ✅ Android
+- ⏳ Windows
+- ⏳ Linux
+- ⏳ macOS
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+- Fork the repository
+- Create a new branch
+- Commit your changes
+- Open a Pull Request
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
